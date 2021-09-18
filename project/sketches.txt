@@ -1,1 +1,18 @@
-...
+Main idea:
+- pixel art style platformer like game with extras
+- jatek vegen nagy boss
+- egy adott szamu akadaly(ok) utan lada, amit egy kis boss oriz (w multiple states)
+- multiple weapon, melee and ranged too
+- inventory with healing options and other potions (speed, power etc.); switch bar on the bottom, and also player-health bar
+- idle, run, attack, switch, jump etc. animations
+- health bars both for the player and the bosses
+- sound effects
+- UI menu (controls - WASD / ARROWS -, resolution, difficulty etc.), maybe w blur while paused
+- spawn points and respawn on them
+- merchants in certain points (maybe with default dialogues.. near spawn points where the player can buy certain tools/potions etc. for money (displayed in the top right corner)
+- multiple levels and maybe the boss is at the end of these levels
+- multiple language option in the options tab
+- optimal performance with a low-end computer too
+- triggers (!)
+- background having a cool parallax effect, infinitely looping, but may differ on other maps
+- visual particle effects in jump, die, etc.
